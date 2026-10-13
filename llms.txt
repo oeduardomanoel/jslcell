@@ -53,8 +53,20 @@
 - Quanto tempo demora? Muitos reparos saem no mesmo dia; o prazo exato vem com o orçamento.
 - Moro fora de Itajaí? A JSL recebe aparelhos de todo o Brasil; o envio é combinado pelo WhatsApp.
 
-## Cursos e ecossistema
+## Cursos de manutenção de celular
 
-- Cursos de manutenção de celular com Jônatas Lima: Iniciante Pro 1.0 (base) e JSLCELL 2.0 (Face ID, troca de vidro, EEPROM e FPC): https://www.jslcell.com/curso
+Página: https://www.jslcell.com/curso
+
+- Iniciante Pro 1.0: para quem nunca abriu um celular. Gestão de assistência, ferramentas e fornecedores, diagnóstico com multímetro, manutenção Apple e Android, ebook de sistemas. Bônus: Panic Full, iPhone em loop, ebook faturando em dólar e 2 meses de appjsl.com. De R$499,99 por R$389,99, em até 12x.
+- JSLCELL 2.0: avançado, não inclui o conteúdo do 1.0. Troca de vidro (Apple, Edge e tablet, iPhone até o 17 Pro Max), reparo de Face ID, transplante de EEPROM, conector de carga e FPC. Bônus de lançamento: 5 meses de appjsl.com e Segredos Apple. De R$1.129,00 por R$899,99, em até 12x.
+- Preços e bônus podem mudar. Pagamento pela Kiwify.
+
+## JMG Media Group
+
+Página: https://www.jslcell.com/jmg
+
+Agência de marketing digital de Jônatas dos Santos Lima, em Itajaí-SC. Tráfego pago, crescimento orgânico (roteiro, estratégia e padrão de conteúdo) e criação de site profissional para pequenas empresas.
+
+## Outros
+
 - Grappy, sistema de orçamento e ordem de serviço para assistências: https://www.grappy.com.br/
-- JMG Media Group, marketing para negócios: https://www.jslcell.com/jmg

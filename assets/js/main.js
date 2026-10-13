@@ -44,7 +44,7 @@
   $$("a", nav).forEach((a) => a.addEventListener("click", closeMenu));
 
   // link ativo
-  const links = $$(".nav a");
+  const links = $$('.nav a[href^="#"]');
   const sections = links.map((a) => $(a.getAttribute("href"))).filter(Boolean);
   if ("IntersectionObserver" in window) {
     const navIO = new IntersectionObserver(
@@ -127,8 +127,9 @@
   }
 
   function fabScene() {
-    if (!fab || !hero) return;
-    fab.classList.toggle("is-on", window.scrollY > hero.offsetHeight * 0.6);
+    if (!fab) return;
+    const limit = hero ? hero.offsetHeight * 0.6 : 320;
+    fab.classList.toggle("is-on", window.scrollY > limit);
   }
 
   let ticking = false;
